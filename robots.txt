@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saharhafsi.github.io/sitemap.xml
